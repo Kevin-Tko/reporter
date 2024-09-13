@@ -1,0 +1,8 @@
+pandas
+numpy
+xlsxwriter
+openpyxl
+xlrd
+flask
+os
+shutils
